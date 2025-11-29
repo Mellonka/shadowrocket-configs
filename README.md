@@ -5,6 +5,4 @@
 Список RUSSIA - список РФ сайтов по домену. В конфиге РУ сайты так же определяются по IP.
 Список NORU  - выделенные домены под отдельный прокси, можно закомментировать.
 
-Ссылка для добавления файла конфигурации - https://raw.githubusercontent.com/zeklop/shadowrocket-configs/main/template.conf
-
-Рекомендую данного поставщика виртуальных серверов для развертывания своего личного VPN / Proxy на базе  VLESS / Reality / VMESS / XTLS / Trojan / Shadowsocks / Wireguard - https://aeza.net/?ref=369292 (подойдет самый простой VPS в любой неРФ локации). У них есть база знаниий с инструкциями по установке серверной части.
+Ссылка для добавления файла конфигурации - https://raw.githubusercontent.com/Mellonka/shadowrocket-configs/main/template.conf
